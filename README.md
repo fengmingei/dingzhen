@@ -7,6 +7,7 @@
 
 https://dkpoi.com/dj
 
+MV:「I Got Smoke」https://www.aliyundrive.com/s/ouwRszRjsjC
 
 
 ## 2.0
