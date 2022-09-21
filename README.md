@@ -2,14 +2,11 @@
 ## 1.0
 
 2022/9/20，添加I Got Smoke滚动歌词页+歌词源文件。
-<<<<<<< HEAD
 
 在线预览：
 
 https://dkpoi.com/dj
 =======
->>>>>>> e7e218394d1d322ce3fa2c253ee1ebf2cc999e63
-
 在线预览：
 
 https://dkpoi.com/dj
